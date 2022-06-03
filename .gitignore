@@ -1,0 +1,9 @@
+#Folders
+/node_modules/
+/allure-report/
+/allure-results/
+/.idea/
+/cypress/screenshots/
+
+#Files
+*.iml
